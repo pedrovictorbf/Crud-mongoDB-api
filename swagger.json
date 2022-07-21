@@ -1,0 +1,19 @@
+{
+    "openapi" : "3.0.1",
+    "info" : {
+        "title" : "Projeto Estagiários",
+        "description" : "",
+        "version" : "2.0.1"
+    },
+    "tags" : [
+
+        {
+            "name" : "Máquinas"
+        }
+    ],
+    "paths" :{
+        "/listarMaquinas" : {
+
+        }
+    }
+}
