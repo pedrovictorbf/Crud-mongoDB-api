@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://admin:admin123@testemongo.tnhk3.mongodb.net/testeMongo');
+mongoose.connect('Insert here mongo Connection String');
 
 let db = mongoose.connection;
 
